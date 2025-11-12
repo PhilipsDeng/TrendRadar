@@ -20,7 +20,7 @@ AMD
 谷歌
 google
 gemini
-deepmind
+
 
 chatgpt
 openai
@@ -42,7 +42,6 @@ ai
 
 机器人
 
-国产
 中国
 
 美国
